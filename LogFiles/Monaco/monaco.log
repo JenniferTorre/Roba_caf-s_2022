@@ -1,0 +1,1041 @@
+{"level":5,"message":"Serving workspaces from \"C:\\home\\site\"","timestamp":1653902121493}
+{"level":5,"message":"Creating C:\\home\\site\\Diagnostics\\settings.json with defaults","timestamp":1653902122039}
+{"level":5,"message":"File watcher installed on path: C:\\home\\site","timestamp":1653902122039}
+{"level":2,"message":"at    77ms\tcreateServer() - start","timestamp":1653902122446}
+{"level":2,"message":"at    77ms\ttime    51ms\tcontributionManager init()","timestamp":1653902122446}
+{"level":2,"message":"at   312ms\ttime     0ms\tcontributionManager registerExtensions()","timestamp":1653902122446}
+{"level":2,"message":"at   312ms\ttime   672ms\tconfig.configure()","timestamp":1653902122446}
+{"level":2,"message":"at   999ms\ttime    47ms\tcom.microsoft.vs.git configure()","timestamp":1653902122446}
+{"level":2,"message":"at   999ms\ttime   531ms\tcom.microsoft.vs.http configure()","timestamp":1653902122446}
+{"level":2,"message":"at   999ms\ttime   531ms\tcom.microsoft.vs.feedback configure()","timestamp":1653902122446}
+{"level":2,"message":"at   999ms\ttime   531ms\tcom.microsoft.vs.ipc configure()","timestamp":1653902122446}
+{"level":2,"message":"at   999ms\ttime   531ms\tcom.microsoft.vs.tfs configure()","timestamp":1653902122446}
+{"level":2,"message":"at   999ms\ttime   531ms\tcom.microsoft.vs.telemetryService configure()","timestamp":1653902122446}
+{"level":2,"message":"at   999ms\ttime   531ms\tcom.microsoft.vs.telemetry configure()","timestamp":1653902122446}
+{"level":2,"message":"at   999ms\ttime   531ms\tcom.microsoft.vs.process configure()","timestamp":1653902122446}
+{"level":2,"message":"at   999ms\ttime   531ms\tcom.microsoft.vs.file configure()","timestamp":1653902122446}
+{"level":2,"message":"at   999ms\ttime   531ms\tcom.microsoft.vs.search configure()","timestamp":1653902122446}
+{"level":2,"message":"at   999ms\ttime   614ms\tcom.microsoft.vs.output configure()","timestamp":1653902122446}
+{"level":2,"message":"at   999ms\ttime   614ms\tcontributionManager configure()","timestamp":1653902122446}
+{"level":2,"message":"at  1613ms\ttime   292ms\tserver.configure()","timestamp":1653902122446}
+{"level":2,"message":"at  1905ms\ttime     0ms\tmiddleware.plugin()","timestamp":1653902122446}
+{"level":2,"message":"at  1905ms\ttime    32ms\troutes.route()","timestamp":1653902122446}
+{"level":2,"message":"at  1937ms\tcreateServer() - end","timestamp":1653902122446}
+{"level":5,"message":"Monaco server running at port \\\\.\\pipe\\fad2bc64-71a0-4af2-b3a6-81010dd14c5d from C:\\Program Files (x86)\\SiteExtensions\\Monaco\\1.0.0-20200601\\server using node v0.10.40","timestamp":1653902122790}
+{"level":5,"message":"Detected project type: NEW_SITE","timestamp":1653902122790}
+{"level":1,"message":"request","timestamp":1653902122961,"responseTime":14,"method":"GET","path":"/dev/wwwroot/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902122961,"responseTime":14,"method":"GET","path":"/dev/wwwroot/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902123857,"responseTime":302,"method":"GET","path":"/dev/public/e75bddac/vs/monaco/ui/workbench/web/workbench.main.js","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902124289,"responseTime":15,"method":"GET","path":"/dev/public/e75bddac/vs/monaco/ui/workbench/web/workbench.main.css","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902124618,"responseTime":16,"method":"POST","path":"/dev/api/events/wwwroot/connect","statusCode":200}
+{"level":1,"message":"Missing access token.","timestamp":1653902124664,"method":"GET","path":"/dev/api/tfs/wwwroot/status","statusCode":412}
+{"level":1,"message":"Not found","timestamp":1653902124684,"method":"GET","path":"/dev/api/files/wwwroot/.settings","statusCode":404}
+{"level":1,"message":"request","timestamp":1653902124696,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902124790,"responseTime":16,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/actions/media/quickopen-global.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902124790,"responseTime":16,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/output/media/runworkspace-global.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902124790,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/base/ui/widgets/shell/media/settings.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902124790,"responseTime":16,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/git/media/git-dark.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902124920,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/output/media/output-global.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902124930,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902125008,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/base/ui/widgets/arrow-expand.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902125008,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/base/ui/widgets/shell/media/logo.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902125008,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/base/ui/widgets/shell/media/help.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902125118,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/base/worker/workerMain.js","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902125118,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/base/worker/workerMain.js","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902125133,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/base/worker/workerMain.js","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902125258,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/base/worker/workerServer.js","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902125383,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/base/worker/workerServer.nls.js","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902125383,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/ui/parts/editor/media/forward.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902125432,"responseTime":17,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/ui/parts/editor/media/info.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902125540,"responseTime":344,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":1,"message":"request","timestamp":1653902131461,"responseTime":15,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902131618,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/git/media/Compare.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902131618,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/ui/parts/editor/media/close.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902131618,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/ui/parts/editor/media/SplitEditor.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902131696,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/base/ui/widgets/whole-word.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902131696,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/editor/contrib/find/expando-collapsed.png","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902131696,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/editor/contrib/find/close.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902131774,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/editor/contrib/find/cancelSelectionFind.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902131774,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/editor/contrib/find/next.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902131774,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/editor/contrib/find/previous.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902131774,"responseTime":234,"method":"GET","path":"/dev/public/e75bddac/vs/languages/html/html.js","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902131852,"responseTime":16,"method":"GET","path":"/dev/public/e75bddac/vs/base/ui/widgets/regex.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902131852,"responseTime":16,"method":"GET","path":"/dev/public/e75bddac/vs/editor/contrib/quickFix/lightbulp.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902131852,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/base/ui/widgets/case-sensitive.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902131852,"responseTime":234,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/files/media/Preview.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902131915,"responseTime":47,"method":"GET","path":"/dev/public/e75bddac/vs/languages/javascript/javascript.js","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902132024,"responseTime":47,"method":"GET","path":"/dev/public/e75bddac/vs/languages/vsxml/vsxml.js","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902132180,"responseTime":265,"method":"GET","path":"/dev/public/e75bddac/vs/languages/css/css.js","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902132227,"responseTime":250,"method":"GET","path":"/dev/public/e75bddac/vs/languages/typescript/lib/typescriptServices.js","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902137321,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/base/ui/widgets/arrow-collapse.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902138352,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/files/media/closeall.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902154805,"responseTime":15,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":6,"message":"Unable to contact telemetry service: Error: getaddrinfo ENOTFOUND","timestamp":1653902184841}
+{"level":1,"message":"request","timestamp":1653902192623,"responseTime":32,"method":"PUT","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902193920,"responseTime":250,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":1,"message":"request","timestamp":1653902194607,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653902218154,"responseTime":47,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/files/media/action-close.svg","statusCode":200}
+{"level":6,"message":"Unable to contact telemetry service: Error: getaddrinfo ENOTFOUND","timestamp":1653902244845}
+{"level":1,"message":"request","timestamp":1653902267986,"responseTime":62,"method":"PUT","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902269845,"responseTime":281,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":1,"message":"request","timestamp":1653902295564,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":6,"message":"Unable to contact telemetry service: Error: getaddrinfo ENOTFOUND","timestamp":1653902364853}
+{"level":1,"message":"request","timestamp":1653902367619,"responseTime":0,"method":"GET","path":"/dev","statusCode":302}
+{"level":1,"message":"request","timestamp":1653902367697,"responseTime":11,"method":"GET","path":"/dev/wwwroot/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902367797,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/loader.js","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902368244,"responseTime":219,"method":"GET","path":"/dev/public/e75bddac/vs/monaco/ui/workbench/web/workbench.main.js","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902368603,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/monaco/ui/workbench/web/workbench.main.nls.js","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902369153,"responseTime":18,"method":"GET","path":"/dev/public/e75bddac/vs/monaco/ui/workbench/web/workbench.main.css","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902369322,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/connect","statusCode":200}
+{"level":1,"message":"Missing access token.","timestamp":1653902369338,"method":"GET","path":"/dev/api/tfs/wwwroot/status","statusCode":412}
+{"level":1,"message":"Not found","timestamp":1653902369338,"method":"GET","path":"/dev/api/files/wwwroot/.settings","statusCode":404}
+{"level":1,"message":"request","timestamp":1653902369400,"responseTime":15,"method":"GET","path":"/dev/api/files/wwwroot/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902369416,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/base/ui/widgets/shell/media/settings.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902369416,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/output/media/output-global.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902369463,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/search/media/search-dark.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902369478,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/ui/parts/editor/media/info.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902369478,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/ui/parts/editor/media/forward.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902369494,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/output/media/runworkspace-global.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902369541,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/actions/media/quickopen-global.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902369557,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/git/media/git-dark.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902369666,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/base/ui/widgets/shell/media/logo.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902369697,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/base/ui/widgets/shell/media/help.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902369900,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/base/worker/workerMain.js","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902369916,"responseTime":16,"method":"GET","path":"/dev/public/e75bddac/vs/base/worker/workerMain.js","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902369978,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/base/worker/workerMain.js","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902369994,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/base/worker/workerServer.js","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902370103,"responseTime":250,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":1,"message":"request","timestamp":1653902370197,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/files/media/files-dark.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902370197,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/files/media/files-dark.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902370197,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/files/media/files-dark.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902371853,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/files/media/closeall.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902372510,"responseTime":16,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902372572,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/languages/html/html.js","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902372666,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/ui/parts/editor/media/SplitEditor.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902372666,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/files/media/Preview.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902372666,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/editor/contrib/find/expando-collapsed.png","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902372666,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/ui/parts/editor/media/close.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902372666,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/git/media/Compare.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902372744,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/base/ui/widgets/case-sensitive.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902372744,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/base/ui/widgets/whole-word.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902372744,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/editor/contrib/quickFix/lightbulp.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902372764,"responseTime":20,"method":"GET","path":"/dev/public/e75bddac/vs/editor/contrib/find/cancelSelectionFind.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902372764,"responseTime":20,"method":"GET","path":"/dev/public/e75bddac/vs/editor/contrib/find/previous.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902372822,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/editor/contrib/find/next.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902372822,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/base/ui/widgets/regex.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902372838,"responseTime":16,"method":"GET","path":"/dev/public/e75bddac/vs/languages/javascript/javascript.js","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902372994,"responseTime":16,"method":"GET","path":"/dev/public/e75bddac/vs/languages/vsxml/vsxml.js","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902373088,"responseTime":110,"method":"GET","path":"/dev/public/e75bddac/vs/languages/typescript/lib/typescriptServices.js","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902373416,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/languages/typescript/project/projectResolver.js","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902372994,"responseTime":16,"method":"GET","path":"/dev/public/e75bddac/vs/languages/vsxml/vsxml.js","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902373088,"responseTime":110,"method":"GET","path":"/dev/public/e75bddac/vs/languages/typescript/lib/typescriptServices.js","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902373416,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/languages/typescript/project/projectResolver.js","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902373916,"responseTime":420,"method":"GET","path":"/dev/api/files/wwwroot/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902399978,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653902469232,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653902556570,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":6,"message":"Unable to contact telemetry service: Error: getaddrinfo ENOTFOUND","timestamp":1653902604870}
+{"level":1,"message":"request","timestamp":1653902621777,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653902755786,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653902785165,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/base/ui/widgets/arrow-collapse.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902799853,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/files/media/action-close-focus.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902808325,"responseTime":66,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/git/gitViewlet.js","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902808415,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/git/gitViewlet.nls.js","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902808510,"responseTime":17,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/git/gitViewlet.css","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902808872,"responseTime":269,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":1,"message":"request","timestamp":1653902810089,"responseTime":49,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/git/media/Refresh.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902810571,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653902811493,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653902812259,"responseTime":406,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/search/searchViewlet.js","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902812370,"responseTime":17,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/search/searchViewlet.css","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902812400,"responseTime":47,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/search/searchViewlet.nls.js","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902812481,"responseTime":19,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/search/media/CollapseAll.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902812603,"responseTime":141,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/search/media/Refresh.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902812668,"responseTime":127,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/search/media/clear-search-results.svg","statusCode":200}
+{"level":4,"message":"[run] detected project type: NEW_SITE","timestamp":1653902813572}
+{"level":1,"message":"request","timestamp":1653902813572,"responseTime":15,"method":"GET","path":"/dev/api/run/wwwroot/","statusCode":301}
+{"level":1,"message":"request","timestamp":1653902813759,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/output/media/output-global-toggled.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902814134,"responseTime":78,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/ui/parts/editor/media/grab.cur","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902813759,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/output/media/output-global-toggled.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902814134,"responseTime":78,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/ui/parts/editor/media/grab.cur","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902813759,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/output/media/output-global-toggled.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902814134,"responseTime":78,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/ui/parts/editor/media/grab.cur","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902819621,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/files/media/SplitEditor.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653902841591,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653902980708,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653903048791,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":6,"message":"Unable to contact telemetry service: Error: getaddrinfo ENOTFOUND","timestamp":1653903084905}
+{"level":6,"message":"Unable to contact telemetry service: Error: getaddrinfo ENOTFOUND","timestamp":1653904044985}
+{"level":6,"message":"Unable to contact telemetry service: Error: getaddrinfo ENOTFOUND","timestamp":1653905965118}
+{"level":1,"message":"request","timestamp":1653907294805,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/connect","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907295696,"responseTime":32,"method":"GET","path":"/dev/api/files/wwwroot/","statusCode":304}
+{"level":1,"message":"request","timestamp":1653907296258,"responseTime":297,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":1,"message":"request","timestamp":1653907323836,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653907327258,"responseTime":15,"method":"PUT","path":"/dev/api/files/wwwroot/formato.css","statusCode":201}
+{"level":1,"message":"request","timestamp":1653907327352,"responseTime":31,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907327383,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/files/media/action-close.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907328086,"responseTime":406,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907328446,"responseTime":266,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":1,"message":"Not modified since","timestamp":1653907333118,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653907333118,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653907333118,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653907333118,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653907357434,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653907405075,"responseTime":31,"method":"PUT","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907406278,"responseTime":266,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":1,"message":"request","timestamp":1653907409547,"responseTime":31,"method":"PUT","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907410610,"responseTime":47,"method":"PUT","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907417172,"responseTime":249,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":1,"message":"request","timestamp":1653907425922,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653907431235,"responseTime":47,"method":"PUT","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907432422,"responseTime":250,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":1,"message":"request","timestamp":1653907432626,"responseTime":32,"method":"PUT","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907433969,"responseTime":62,"method":"PUT","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907438797,"responseTime":31,"method":"PUT","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907442422,"responseTime":234,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":1,"message":"request","timestamp":1653907443579,"responseTime":32,"method":"PUT","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907449235,"responseTime":31,"method":"PUT","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907452704,"responseTime":516,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":1,"message":"request","timestamp":1653907453579,"responseTime":32,"method":"PUT","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907455407,"responseTime":31,"method":"PUT","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907457813,"responseTime":31,"method":"PUT","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907460033,"responseTime":48,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"Not modified since","timestamp":1653907462469,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"request","timestamp":1653907462469,"responseTime":31,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"request","timestamp":1653907462829,"responseTime":641,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":1,"message":"Not modified since","timestamp":1653907462469,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"request","timestamp":1653907462469,"responseTime":31,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"request","timestamp":1653907462829,"responseTime":641,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":1,"message":"Not modified since","timestamp":1653907464047,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653907464047,"responseTime":31,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653907464047,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653907464047,"responseTime":31,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653907487568,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"request","timestamp":1653907487568,"responseTime":31,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653907487568,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"request","timestamp":1653907487568,"responseTime":31,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653907489805,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653907489805,"responseTime":30,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653907489805,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653907489805,"responseTime":30,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653907491740,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653907495693,"responseTime":31,"method":"PUT","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907496912,"responseTime":266,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":1,"message":"request","timestamp":1653907497823,"responseTime":52,"method":"PUT","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907500068,"responseTime":62,"method":"PUT","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907507177,"responseTime":265,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":1,"message":"request","timestamp":1653907525927,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653907546524,"responseTime":31,"method":"PUT","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907547743,"responseTime":250,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":1,"message":"request","timestamp":1653907555024,"responseTime":47,"method":"PUT","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907557733,"responseTime":234,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":1,"message":"request","timestamp":1653907558874,"responseTime":31,"method":"PUT","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907562358,"responseTime":31,"method":"PUT","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907564733,"responseTime":47,"method":"PUT","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907566218,"responseTime":32,"method":"PUT","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907567749,"responseTime":250,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":1,"message":"Not modified since","timestamp":1653907568577,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"request","timestamp":1653907568577,"responseTime":16,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"request","timestamp":1653907572374,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653907574124,"responseTime":31,"method":"PUT","path":"/dev/api/files/wwwroot/formato.css","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907575999,"responseTime":31,"method":"PUT","path":"/dev/api/files/wwwroot/formato.css","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907577733,"responseTime":219,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":1,"message":"request","timestamp":1653907603097,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653907619378,"responseTime":31,"method":"PUT","path":"/dev/api/files/wwwroot/formato.css","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907620550,"responseTime":235,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":1,"message":"request","timestamp":1653907622128,"responseTime":31,"method":"PUT","path":"/dev/api/files/wwwroot/formato.css","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907624722,"responseTime":32,"method":"PUT","path":"/dev/api/files/wwwroot/formato.css","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907630190,"responseTime":47,"method":"PUT","path":"/dev/api/files/wwwroot/formato.css","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907630565,"responseTime":234,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":1,"message":"request","timestamp":1653907631487,"responseTime":31,"method":"PUT","path":"/dev/api/files/wwwroot/formato.css","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907635738,"responseTime":31,"method":"PUT","path":"/dev/api/files/wwwroot/formato.css","statusCode":200}
+{"level":1,"message":"Not modified since","timestamp":1653907639432,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653907639448,"responseTime":31,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653907639432,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653907639448,"responseTime":31,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653907640589,"responseTime":266,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":1,"message":"request","timestamp":1653907643136,"responseTime":94,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/files/media/Refresh.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907643511,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/base/ui/widgets/toolbar/ellipsis.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907643557,"responseTime":62,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/files/media/ViewSource.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907644104,"responseTime":15,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907644229,"responseTime":31,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907646417,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"Not modified since","timestamp":1653907652476,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"request","timestamp":1653907652476,"responseTime":16,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653907652476,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"request","timestamp":1653907652476,"responseTime":16,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653907653835,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653907653835,"responseTime":15,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653907653835,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653907653835,"responseTime":15,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653907656788,"responseTime":31,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"Not modified since","timestamp":1653907656882,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"request","timestamp":1653907657038,"responseTime":171,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653907671884,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653907671884,"responseTime":47,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653907671884,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653907671884,"responseTime":47,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653907677431,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653907711138,"responseTime":47,"method":"PUT","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653907712294,"responseTime":234,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":1,"message":"request","timestamp":1653907717544,"responseTime":15,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"Not modified since","timestamp":1653907735169,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"request","timestamp":1653907735169,"responseTime":15,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653907735169,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"request","timestamp":1653907735169,"responseTime":15,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"request","timestamp":1653907763919,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"Not modified since","timestamp":1653907963652,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653907963652,"responseTime":15,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653907963652,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653907963652,"responseTime":15,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653907990339,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653908183495,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":6,"message":"Unable to contact telemetry service: Error: getaddrinfo ENOTFOUND","timestamp":1653909805422}
+{"level":1,"message":"request","timestamp":1653910591031,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/connect","statusCode":200}
+{"level":1,"message":"request","timestamp":1653910591750,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653910592406,"responseTime":265,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":1,"message":"request","timestamp":1653910620520,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653910744920,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653911436634,"responseTime":0,"method":"GET","path":"/dev/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653911437150,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/connect","statusCode":200}
+{"level":1,"message":"Missing access token.","timestamp":1653911437212,"method":"GET","path":"/dev/api/tfs/wwwroot/status","statusCode":412}
+{"level":1,"message":"Not found","timestamp":1653911437291,"method":"GET","path":"/dev/api/files/wwwroot/.settings","statusCode":404}
+{"level":1,"message":"request","timestamp":1653911437322,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653911437400,"responseTime":28,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653911438184,"responseTime":393,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":1,"message":"request","timestamp":1653911438184,"responseTime":550,"method":"GET","path":"/dev/api/files/wwwroot/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653911467556,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653911588963,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653914355888,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/connect","statusCode":200}
+{"level":1,"message":"request","timestamp":1653914356623,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653914356998,"responseTime":32,"method":"GET","path":"/dev/api/files/wwwroot/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653914357185,"responseTime":281,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":5,"message":"Serving workspaces from \"C:\\home\\site\"","timestamp":1653976899234}
+{"level":5,"message":"File watcher installed on path: C:\\home\\site","timestamp":1653976899797}
+{"level":5,"message":"Found C:\\home\\site\\Diagnostics\\settings.json with contents: {\"AzureDriveEnabled\":true,\"AzureDriveTraceLevel\":\"Information\"}","timestamp":1653976899815}
+{"level":2,"message":"at    42ms\tcreateServer() - start","timestamp":1653976899922}
+{"level":2,"message":"at    42ms\ttime    63ms\tcontributionManager init()","timestamp":1653976899922}
+{"level":2,"message":"at   261ms\ttime     0ms\tcontributionManager registerExtensions()","timestamp":1653976899922}
+{"level":2,"message":"at   261ms\ttime  1000ms\tconfig.configure()","timestamp":1653976899922}
+{"level":2,"message":"at  1308ms\ttime    47ms\tcom.microsoft.vs.git configure()","timestamp":1653976899922}
+{"level":2,"message":"at  1308ms\ttime   516ms\tcom.microsoft.vs.http configure()","timestamp":1653976899922}
+{"level":2,"message":"at  1308ms\ttime   516ms\tcom.microsoft.vs.feedback configure()","timestamp":1653976899922}
+{"level":2,"message":"at  1308ms\ttime   516ms\tcom.microsoft.vs.ipc configure()","timestamp":1653976899922}
+{"level":2,"message":"at  1308ms\ttime   516ms\tcom.microsoft.vs.telemetryService configure()","timestamp":1653976899922}
+{"level":2,"message":"at  1308ms\ttime   516ms\tcom.microsoft.vs.telemetry configure()","timestamp":1653976899922}
+{"level":2,"message":"at  1308ms\ttime   516ms\tcom.microsoft.vs.tfs configure()","timestamp":1653976899922}
+{"level":2,"message":"at  1308ms\ttime   516ms\tcom.microsoft.vs.process configure()","timestamp":1653976899922}
+{"level":2,"message":"at  1308ms\ttime   516ms\tcom.microsoft.vs.file configure()","timestamp":1653976899922}
+{"level":2,"message":"at  1308ms\ttime   516ms\tcom.microsoft.vs.search configure()","timestamp":1653976899922}
+{"level":2,"message":"at  1308ms\ttime   547ms\tcom.microsoft.vs.output configure()","timestamp":1653976899922}
+{"level":2,"message":"at  1308ms\ttime   547ms\tcontributionManager configure()","timestamp":1653976899922}
+{"level":2,"message":"at  1855ms\ttime    47ms\tserver.configure()","timestamp":1653976899922}
+{"level":2,"message":"at  1902ms\ttime    15ms\tmiddleware.plugin()","timestamp":1653976899922}
+{"level":2,"message":"at  1917ms\ttime    32ms\troutes.route()","timestamp":1653976899922}
+{"level":2,"message":"at  1949ms\tcreateServer() - end","timestamp":1653976899922}
+{"level":5,"message":"Monaco server running at port \\\\.\\pipe\\a6311f39-ee71-462b-9322-8eb633a908ed from C:\\Program Files (x86)\\SiteExtensions\\Monaco\\1.0.0-20200601\\server using node v0.10.40","timestamp":1653976900286}
+{"level":5,"message":"Detected project type: HTML","timestamp":1653976900286}
+{"level":1,"message":"request","timestamp":1653976901734,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"Not found","timestamp":1653976901812,"method":"GET","path":"/dev/api/files/wwwroot/.settings","statusCode":404}
+{"level":1,"message":"request","timestamp":1653976901922,"responseTime":32,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653976901937,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/connect","statusCode":200}
+{"level":1,"message":"Missing access token.","timestamp":1653976902005,"method":"GET","path":"/dev/api/tfs/wwwroot/status","statusCode":412}
+{"level":1,"message":"request","timestamp":1653976902015,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653976902611,"responseTime":377,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":1,"message":"request","timestamp":1653976902611,"responseTime":471,"method":"GET","path":"/dev/api/files/wwwroot/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653976932218,"responseTime":15,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653976947640,"responseTime":0,"method":"GET","path":"/dev/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653976947937,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/connect","statusCode":200}
+{"level":1,"message":"Missing access token.","timestamp":1653976947968,"method":"GET","path":"/dev/api/tfs/wwwroot/status","statusCode":412}
+{"level":1,"message":"Not found","timestamp":1653976947984,"method":"GET","path":"/dev/api/files/wwwroot/.settings","statusCode":404}
+{"level":1,"message":"request","timestamp":1653976948000,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653976948062,"responseTime":15,"method":"POST","path":"/dev/api/events/wwwroot/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653976948078,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653976948219,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653976948703,"responseTime":250,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":6,"message":"Unable to contact telemetry service: Error: getaddrinfo ENOTFOUND","timestamp":1653976962303}
+{"level":1,"message":"request","timestamp":1653976978198,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":6,"message":"Unable to contact telemetry service: Error: getaddrinfo ENOTFOUND","timestamp":1653977022296}
+{"level":1,"message":"request","timestamp":1653977074046,"responseTime":16,"method":"GET","path":"/dev/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653977074436,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/connect","statusCode":200}
+{"level":1,"message":"Not found","timestamp":1653977074499,"method":"GET","path":"/dev/api/files/wwwroot/.settings","statusCode":404}
+{"level":1,"message":"request","timestamp":1653977074905,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/","statusCode":200}
+{"level":1,"message":"Missing access token.","timestamp":1653977074936,"method":"GET","path":"/dev/api/tfs/wwwroot/status","statusCode":412}
+{"level":1,"message":"Not modified since","timestamp":1653977075406,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653977075406,"responseTime":17,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653977075546,"responseTime":344,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":1,"message":"request","timestamp":1653977075546,"responseTime":344,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":1,"message":"request","timestamp":1653977076063,"responseTime":424,"method":"GET","path":"/dev/api/files/wwwroot/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653977076063,"responseTime":424,"method":"GET","path":"/dev/api/files/wwwroot/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653977096908,"responseTime":0,"method":"GET","path":"/dev/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653977097361,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/connect","statusCode":200}
+{"level":1,"message":"Not found","timestamp":1653977097439,"method":"GET","path":"/dev/api/files/wwwroot/.settings","statusCode":404}
+{"level":1,"message":"request","timestamp":1653977097517,"responseTime":15,"method":"GET","path":"/dev/api/files/wwwroot/","statusCode":304}
+{"level":1,"message":"request","timestamp":1653977097580,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653977097658,"responseTime":16,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"Missing access token.","timestamp":1653977097705,"method":"GET","path":"/dev/api/tfs/wwwroot/status","statusCode":412}
+{"level":1,"message":"request","timestamp":1653977098095,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653977098174,"responseTime":266,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":1,"message":"Not modified since","timestamp":1653977101189,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"request","timestamp":1653977101189,"responseTime":11,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653977101189,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"request","timestamp":1653977101189,"responseTime":11,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"request","timestamp":1653977105877,"responseTime":16,"method":"PUT","path":"/dev/api/files/wwwroot/formato.css","statusCode":200}
+{"level":1,"message":"request","timestamp":1653977108158,"responseTime":250,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":1,"message":"request","timestamp":1653977127752,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653977128627,"responseTime":0,"method":"GET","path":"/dev","statusCode":302}
+{"level":1,"message":"request","timestamp":1653977128705,"responseTime":16,"method":"GET","path":"/dev/wwwroot/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653977128986,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/connect","statusCode":200}
+{"level":1,"message":"Not found","timestamp":1653977129023,"method":"GET","path":"/dev/api/files/wwwroot/.settings","statusCode":404}
+{"level":1,"message":"Missing access token.","timestamp":1653977129033,"method":"GET","path":"/dev/api/tfs/wwwroot/status","statusCode":412}
+{"level":1,"message":"request","timestamp":1653977129111,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/","statusCode":200}
+{"level":1,"message":"Not modified since","timestamp":1653977129142,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653977129142,"responseTime":15,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653977129361,"responseTime":16,"method":"GET","path":"/dev/api/files/wwwroot/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653977129783,"responseTime":266,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":6,"message":"Unable to contact telemetry service: Error: getaddrinfo ENOTFOUND","timestamp":1653977142305}
+{"level":1,"message":"request","timestamp":1653977159273,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653977294119,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":6,"message":"Unable to contact telemetry service: Error: getaddrinfo ENOTFOUND","timestamp":1653977382334}
+{"level":1,"message":"request","timestamp":1653977493245,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653977614304,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653977672578,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653977712974,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653977798024,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653977833529,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":6,"message":"Unable to contact telemetry service: Error: getaddrinfo ENOTFOUND","timestamp":1653977862392}
+{"level":1,"message":"request","timestamp":1653978068952,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653978271122,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653978328179,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653978450547,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":6,"message":"Unable to contact telemetry service: Error: getaddrinfo ENOTFOUND","timestamp":1653978822474}
+{"level":1,"message":"request","timestamp":1653978981936,"responseTime":15,"method":"GET","path":"/dev/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653978982515,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/connect","statusCode":200}
+{"level":1,"message":"Missing access token.","timestamp":1653978982593,"method":"GET","path":"/dev/api/tfs/wwwroot/status","statusCode":412}
+{"level":1,"message":"Not found","timestamp":1653978983249,"method":"GET","path":"/dev/api/files/wwwroot/.settings","statusCode":404}
+{"level":1,"message":"Not modified since","timestamp":1653978983358,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653978983358,"responseTime":31,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"Not found","timestamp":1653978983249,"method":"GET","path":"/dev/api/files/wwwroot/.settings","statusCode":404}
+{"level":1,"message":"Not modified since","timestamp":1653978983358,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653978983358,"responseTime":31,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653978983765,"responseTime":266,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":1,"message":"request","timestamp":1653978984030,"responseTime":450,"method":"GET","path":"/dev/api/files/wwwroot/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653978984530,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653979014191,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653979265738,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653979292453,"responseTime":266,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":1,"message":"request","timestamp":1653979299421,"responseTime":15,"method":"POST","path":"/dev/api/files/wwwroot/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653979301109,"responseTime":235,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":1,"message":"request","timestamp":1653979303472,"responseTime":234,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":204}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979307113}
+{"level":1,"message":"Not at the repository root","timestamp":1653979307113,"method":"POST","path":"/dev/api/git/wwwroot/init","statusCode":400}
+{"level":1,"message":"request","timestamp":1653979307207,"responseTime":16,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/git/media/branch.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653979307363,"responseTime":94,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/git/media/sync.svg","statusCode":200}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979307550}
+{"level":1,"message":"Not at the repository root","timestamp":1653979307550,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979307113}
+{"level":1,"message":"Not at the repository root","timestamp":1653979307113,"method":"POST","path":"/dev/api/git/wwwroot/init","statusCode":400}
+{"level":1,"message":"request","timestamp":1653979307207,"responseTime":16,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/git/media/branch.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653979307363,"responseTime":94,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/git/media/sync.svg","statusCode":200}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979307550}
+{"level":1,"message":"Not at the repository root","timestamp":1653979307550,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1653979309269,"responseTime":16,"method":"GET","path":"/dev/api/files/wwwroot/","statusCode":200}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979309519}
+{"level":1,"message":"Not at the repository root","timestamp":1653979309519,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979317535}
+{"level":1,"message":"Not at the repository root","timestamp":1653979317535,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1653979318175,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979317535}
+{"level":1,"message":"Not at the repository root","timestamp":1653979317535,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1653979318175,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979324050}
+{"level":1,"message":"Not at the repository root","timestamp":1653979324050,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979324050}
+{"level":1,"message":"Not at the repository root","timestamp":1653979324050,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1653979354191,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979368679}
+{"level":1,"message":"Not at the repository root","timestamp":1653979368679,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979368679}
+{"level":1,"message":"Not at the repository root","timestamp":1653979368679,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1653979398195,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979421934}
+{"level":1,"message":"Not at the repository root","timestamp":1653979421934,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979421934}
+{"level":1,"message":"Not at the repository root","timestamp":1653979421934,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1653979448513,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979480422}
+{"level":1,"message":"Not at the repository root","timestamp":1653979480422,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979480422}
+{"level":1,"message":"Not at the repository root","timestamp":1653979480422,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1653979495659,"responseTime":31,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/terminal/terminalEditor.js","statusCode":200}
+{"level":1,"message":"request","timestamp":1653979495737,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/terminal/terminalEditor.css","statusCode":200}
+{"level":1,"message":"request","timestamp":1653979495847,"responseTime":16,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/terminal/terminalEditor.nls.js","statusCode":200}
+{"level":1,"message":"request","timestamp":1653979495972,"responseTime":16,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/terminal/terminalMode.js","statusCode":200}
+{"level":1,"message":"request","timestamp":1653979496112,"responseTime":15,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/terminal/media/Clearoutput.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653979496253,"responseTime":63,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/terminal/media/new-console.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653979496393,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/terminal/media/console-global-toggled.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653979497440,"responseTime":15,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/terminal/media/switch-to-console.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653979500425,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/","statusCode":200}
+{"level":1,"message":"Command: help","timestamp":1653979500440,"responseTime":15,"command":"help","cwd":"C:\\home\\site\\wwwroot\\","workspaceId":"wwwroot"}
+{"level":1,"message":"request","timestamp":1653979500425,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/","statusCode":200}
+{"level":1,"message":"Command: help","timestamp":1653979500440,"responseTime":15,"command":"help","cwd":"C:\\home\\site\\wwwroot\\","workspaceId":"wwwroot"}
+{"level":1,"message":"request","timestamp":1653979525597,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653979526268,"responseTime":0,"method":"GET","path":"/dev/api/output/wwwroot/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653979526378,"responseTime":0,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/output/media/Clearoutput.svg","statusCode":200}
+{"level":4,"message":"[run] detected project type: HTML","timestamp":1653979530268}
+{"level":1,"message":"request","timestamp":1653979530268,"responseTime":15,"method":"GET","path":"/dev/api/run/wwwroot/","statusCode":301}
+{"level":4,"message":"[run] detected project type: HTML","timestamp":1653979530268}
+{"level":1,"message":"request","timestamp":1653979530268,"responseTime":15,"method":"GET","path":"/dev/api/run/wwwroot/","statusCode":301}
+{"level":1,"message":"request","timestamp":1653979534362,"responseTime":15,"method":"GET","path":"/dev/api/files/wwwroot/","statusCode":200}
+{"level":1,"message":"Not modified since","timestamp":1653979534362,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653979534362,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653979534362,"responseTime":15,"method":"GET","path":"/dev/api/files/wwwroot/","statusCode":200}
+{"level":1,"message":"Not modified since","timestamp":1653979534362,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653979534362,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653979534362,"responseTime":15,"method":"GET","path":"/dev/api/files/wwwroot/","statusCode":200}
+{"level":1,"message":"Not modified since","timestamp":1653979534362,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653979534362,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653979536315,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":200}
+{"level":1,"message":"request","timestamp":1653979537159,"responseTime":0,"method":"POST","path":"/dev/api/files/wwwroot/.git/","statusCode":200}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979538362}
+{"level":1,"message":"Not at the repository root","timestamp":1653979538362,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979538362}
+{"level":1,"message":"Not at the repository root","timestamp":1653979538362,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"Not modified since","timestamp":1653979539472,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653979539472,"responseTime":16,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979539800}
+{"level":1,"message":"Not at the repository root","timestamp":1653979539800,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"Not modified since","timestamp":1653979540112,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"request","timestamp":1653979540112,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653979539472,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653979539472,"responseTime":16,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979539800}
+{"level":1,"message":"Not at the repository root","timestamp":1653979539800,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"Not modified since","timestamp":1653979540112,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"request","timestamp":1653979540112,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653979544398,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653979544398,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653979544398,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653979544398,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653979546086,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"request","timestamp":1653979546086,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653979546555,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653979546555,"responseTime":16,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653979546086,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"request","timestamp":1653979546086,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653979546555,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653979546555,"responseTime":16,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979547523}
+{"level":1,"message":"Not at the repository root","timestamp":1653979547523,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979547523}
+{"level":1,"message":"Not at the repository root","timestamp":1653979547523,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1653979553711,"responseTime":16,"method":"GET","path":"/dev/api/files/wwwroot/.git/config","statusCode":200}
+{"level":1,"message":"request","timestamp":1653979553867,"responseTime":78,"method":"GET","path":"/dev/public/e75bddac/vs/plugins/vs.language.ini/iniMain.js","statusCode":200}
+{"level":1,"message":"request","timestamp":1653979556398,"responseTime":31,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"Not modified since","timestamp":1653979558805,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"request","timestamp":1653979558805,"responseTime":16,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653979559133,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653979559133,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653979558805,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"request","timestamp":1653979558805,"responseTime":16,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653979559133,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653979559133,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653979560117,"method":"GET","path":"/dev/api/files/wwwroot/.git/config","statusCode":304}
+{"level":1,"message":"request","timestamp":1653979560117,"responseTime":15,"method":"GET","path":"/dev/api/files/wwwroot/.git/config","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653979560117,"method":"GET","path":"/dev/api/files/wwwroot/.git/config","statusCode":304}
+{"level":1,"message":"request","timestamp":1653979560117,"responseTime":15,"method":"GET","path":"/dev/api/files/wwwroot/.git/config","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653979561898,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653979561898,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653979561898,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653979561898,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653979589118,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653979794310,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653979811920,"responseTime":16,"method":"GET","path":"/dev/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653979812357,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/connect","statusCode":200}
+{"level":1,"message":"Missing access token.","timestamp":1653979812420,"method":"GET","path":"/dev/api/tfs/wwwroot/status","statusCode":412}
+{"level":1,"message":"request","timestamp":1653979813045,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653979813060,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/","statusCode":304}
+{"level":1,"message":"Not found","timestamp":1653979813076,"method":"GET","path":"/dev/api/files/wwwroot/.settings","statusCode":404}
+{"level":1,"message":"request","timestamp":1653979813201,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653979813295,"responseTime":31,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979813404}
+{"level":1,"message":"Not at the repository root","timestamp":1653979813420,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1653979813592,"responseTime":16,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/git/media/branch.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653979813592,"responseTime":16,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/git/media/sync.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653979813920,"responseTime":453,"method":"GET","path":"/dev/api/files/wwwroot/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653979813592,"responseTime":16,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/git/media/branch.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653979813592,"responseTime":16,"method":"GET","path":"/dev/public/e75bddac/vs/workbench/contrib/git/media/sync.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653979813920,"responseTime":453,"method":"GET","path":"/dev/api/files/wwwroot/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653979817795,"responseTime":16,"method":"POST","path":"/dev/api/files/wwwroot/.git/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653979821482,"responseTime":15,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":200}
+{"level":1,"message":"Not modified since","timestamp":1653979822060,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653979822060,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653979833295,"responseTime":0,"method":"PUT","path":"/dev/api/files/wwwroot/images","statusCode":201}
+{"level":1,"message":"request","timestamp":1653979833388,"responseTime":15,"method":"GET","path":"/dev/api/files/wwwroot/images","statusCode":200}
+{"level":1,"message":"request","timestamp":1653979833748,"responseTime":16,"method":"GET","path":"/dev/api/files/wwwroot/images","statusCode":200}
+{"level":1,"message":"request","timestamp":1653979833763,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/images","statusCode":200}
+{"level":1,"message":"request","timestamp":1653979833810,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/images","statusCode":200}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979834560}
+{"level":1,"message":"Not at the repository root","timestamp":1653979834560,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979834560}
+{"level":1,"message":"Not at the repository root","timestamp":1653979834560,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979834560}
+{"level":1,"message":"Not at the repository root","timestamp":1653979834560,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979834560}
+{"level":1,"message":"Not at the repository root","timestamp":1653979834560,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1653979834826,"responseTime":31,"method":"POST","path":"/dev/api/files/wwwroot/","statusCode":200}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979834873}
+{"level":1,"message":"Not at the repository root","timestamp":1653979834873,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1653979834826,"responseTime":31,"method":"POST","path":"/dev/api/files/wwwroot/","statusCode":200}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979834873}
+{"level":1,"message":"Not at the repository root","timestamp":1653979834873,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1653979834826,"responseTime":31,"method":"POST","path":"/dev/api/files/wwwroot/","statusCode":200}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979834873}
+{"level":1,"message":"Not at the repository root","timestamp":1653979834873,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1653979834826,"responseTime":31,"method":"POST","path":"/dev/api/files/wwwroot/","statusCode":200}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979834873}
+{"level":1,"message":"Not at the repository root","timestamp":1653979834873,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1653979839795,"responseTime":0,"method":"DELETE","path":"/dev/api/files/wwwroot/images","statusCode":200}
+{"level":1,"message":"request","timestamp":1653979840920,"responseTime":0,"method":"POST","path":"/dev/api/files/wwwroot/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653979842560,"responseTime":15,"method":"GET","path":"/dev/api/files/wwwroot/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653979843394,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979844518}
+{"level":1,"message":"Not at the repository root","timestamp":1653979844518,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979844565}
+{"level":1,"message":"Not at the repository root","timestamp":1653979844565,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979844518}
+{"level":1,"message":"Not at the repository root","timestamp":1653979844518,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979844565}
+{"level":1,"message":"Not at the repository root","timestamp":1653979844565,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979844518}
+{"level":1,"message":"Not at the repository root","timestamp":1653979844518,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979844565}
+{"level":1,"message":"Not at the repository root","timestamp":1653979844565,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979844518}
+{"level":1,"message":"Not at the repository root","timestamp":1653979844518,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979844565}
+{"level":1,"message":"Not at the repository root","timestamp":1653979844565,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979845800}
+{"level":1,"message":"Not at the repository root","timestamp":1653979845800,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979845800}
+{"level":1,"message":"Not at the repository root","timestamp":1653979845800,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1653979913495,"responseTime":0,"method":"GET","path":"/dev/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653979914120,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/connect","statusCode":200}
+{"level":1,"message":"Not found","timestamp":1653979914183,"method":"GET","path":"/dev/api/files/wwwroot/.settings","statusCode":404}
+{"level":1,"message":"request","timestamp":1653979914276,"responseTime":15,"method":"POST","path":"/dev/api/files/wwwroot/","statusCode":200}
+{"level":1,"message":"Missing access token.","timestamp":1653979914604,"method":"GET","path":"/dev/api/tfs/wwwroot/status","statusCode":412}
+{"level":1,"message":"request","timestamp":1653979914729,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/","statusCode":200}
+{"level":1,"message":"Not modified since","timestamp":1653979914901,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653979914901,"responseTime":15,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"Missing access token.","timestamp":1653979914604,"method":"GET","path":"/dev/api/tfs/wwwroot/status","statusCode":412}
+{"level":1,"message":"request","timestamp":1653979914729,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/","statusCode":200}
+{"level":1,"message":"Not modified since","timestamp":1653979914901,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653979914901,"responseTime":15,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"Missing access token.","timestamp":1653979914604,"method":"GET","path":"/dev/api/tfs/wwwroot/status","statusCode":412}
+{"level":1,"message":"request","timestamp":1653979914729,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/","statusCode":200}
+{"level":1,"message":"Not modified since","timestamp":1653979914901,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653979914901,"responseTime":15,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653979915479}
+{"level":1,"message":"Not at the repository root","timestamp":1653979915479,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1653979945189,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653980065943,"responseTime":15,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"Not modified since","timestamp":1653980114824,"method":"GET","path":"/dev/api/files/wwwroot/.git/config","statusCode":304}
+{"level":1,"message":"request","timestamp":1653980114824,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/.git/config","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653980114824,"method":"GET","path":"/dev/api/files/wwwroot/.git/config","statusCode":304}
+{"level":1,"message":"request","timestamp":1653980114824,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/.git/config","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653980115886,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653980115886,"responseTime":16,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653980116261,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"request","timestamp":1653980116261,"responseTime":31,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653980115886,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653980115886,"responseTime":16,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653980116261,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"request","timestamp":1653980116261,"responseTime":31,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653980117824,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653980117824,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653980117824,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653980117824,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653980119730,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653980119730,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653980119730,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653980119730,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653980124449,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653980124449,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653980124449,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653980124449,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653980142183,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653980313791,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":6,"message":"Unable to contact telemetry service: Error: getaddrinfo ENOTFOUND","timestamp":1653980742640}
+{"level":1,"message":"request","timestamp":1653980758238,"responseTime":16,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653980878375,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653981556360,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/connect","statusCode":200}
+{"level":1,"message":"request","timestamp":1653981557090,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/","statusCode":200}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981558871}
+{"level":1,"message":"Not at the repository root","timestamp":1653981558871,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1653981559371,"responseTime":16,"method":"GET","path":"/dev/api/files/wwwroot/","statusCode":200}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981558871}
+{"level":1,"message":"Not at the repository root","timestamp":1653981558871,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1653981559371,"responseTime":16,"method":"GET","path":"/dev/api/files/wwwroot/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653981569746,"responseTime":31,"method":"PUT","path":"/dev/api/files/wwwroot/images/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653981570605,"responseTime":421,"method":"GET","path":"/dev/api/files/wwwroot/images","statusCode":200}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981570996}
+{"level":1,"message":"Not at the repository root","timestamp":1653981570996,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1653981571012,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/images","statusCode":200}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981571527}
+{"level":1,"message":"Not at the repository root","timestamp":1653981571527,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1653981579027,"responseTime":15,"method":"POST","path":"/dev/api/files/wwwroot/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653981585512,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653981620391,"responseTime":0,"method":"POST","path":"/dev/api/files/wwwroot/images/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653981621359,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/images/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653981621672,"responseTime":234,"method":"POST","path":"/dev/api/files/wwwroot/images/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653981621672,"responseTime":0,"method":"GET","path":"/dev/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653981622172,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/connect","statusCode":200}
+{"level":1,"message":"Missing access token.","timestamp":1653981622188,"method":"GET","path":"/dev/api/tfs/wwwroot/status","statusCode":412}
+{"level":1,"message":"Not found","timestamp":1653981622188,"method":"GET","path":"/dev/api/files/wwwroot/.settings","statusCode":404}
+{"level":1,"message":"request","timestamp":1653981622188,"responseTime":16,"method":"GET","path":"/dev/api/files/wwwroot/images/bd350d3d-69fd-4c8e-b879-bf78fce1a7ef.jpg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653981622188,"responseTime":110,"method":"GET","path":"/dev/api/files/wwwroot/images/bd350d3d-69fd-4c8e-b879-bf78fce1a7ef.jpg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653981622266,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653981622266,"responseTime":16,"method":"POST","path":"/dev/api/files/wwwroot/","statusCode":200}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981622922}
+{"level":1,"message":"Not at the repository root","timestamp":1653981622922,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981622969}
+{"level":1,"message":"Not at the repository root","timestamp":1653981622969,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981622922}
+{"level":1,"message":"Not at the repository root","timestamp":1653981622922,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981622969}
+{"level":1,"message":"Not at the repository root","timestamp":1653981622969,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981622922}
+{"level":1,"message":"Not at the repository root","timestamp":1653981622922,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981622969}
+{"level":1,"message":"Not at the repository root","timestamp":1653981622969,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981622922}
+{"level":1,"message":"Not at the repository root","timestamp":1653981622922,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981622969}
+{"level":1,"message":"Not at the repository root","timestamp":1653981622969,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981622922}
+{"level":1,"message":"Not at the repository root","timestamp":1653981622922,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981622969}
+{"level":1,"message":"Not at the repository root","timestamp":1653981622969,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"Not modified since","timestamp":1653981624234,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653981624234,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653981624453,"responseTime":15,"method":"GET","path":"/dev/api/files/wwwroot/","statusCode":200}
+{"level":1,"message":"Not modified since","timestamp":1653981624234,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653981624234,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653981624453,"responseTime":15,"method":"GET","path":"/dev/api/files/wwwroot/","statusCode":200}
+{"level":1,"message":"Not modified since","timestamp":1653981637531,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653981637531,"responseTime":15,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653981637531,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653981637531,"responseTime":15,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653981647988,"responseTime":15,"method":"PUT","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653981648473,"responseTime":16,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981649238}
+{"level":1,"message":"Not at the repository root","timestamp":1653981649238,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981649238}
+{"level":1,"message":"Not at the repository root","timestamp":1653981649238,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1653981652426,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653981654317,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653981654613,"responseTime":15,"method":"PUT","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653981655051,"responseTime":16,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653981656676,"responseTime":16,"method":"PUT","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653981657129,"responseTime":16,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653981657785,"responseTime":62,"method":"GET","path":"/dev/api/files/wwwroot/images/bd350d3d-69fd-4c8e-b879-bf78fce1a7ef.jpg","statusCode":200}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981659270}
+{"level":1,"message":"Not at the repository root","timestamp":1653981659270,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981659301}
+{"level":1,"message":"Not at the repository root","timestamp":1653981659301,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981659270}
+{"level":1,"message":"Not at the repository root","timestamp":1653981659270,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981659301}
+{"level":1,"message":"Not at the repository root","timestamp":1653981659301,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981659270}
+{"level":1,"message":"Not at the repository root","timestamp":1653981659270,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981659301}
+{"level":1,"message":"Not at the repository root","timestamp":1653981659301,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981659270}
+{"level":1,"message":"Not at the repository root","timestamp":1653981659270,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981659301}
+{"level":1,"message":"Not at the repository root","timestamp":1653981659301,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1653981661598,"responseTime":31,"method":"POST","path":"/dev/api/files/wwwroot/images/bd350d3d-69fd-4c8e-b879-bf78fce1a7ef.jpg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653981661676,"responseTime":16,"method":"POST","path":"/dev/api/files/wwwroot/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653981662020,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/images/aa.jpg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653981662035,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/images/aa.jpg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653981662270,"responseTime":47,"method":"GET","path":"/dev/api/files/wwwroot/images/aa.jpg","statusCode":200}
+{"level":1,"message":"Not modified since","timestamp":1653981662926,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653981662926,"responseTime":16,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"Not modified since","timestamp":1653981662926,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653981662926,"responseTime":16,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981666645}
+{"level":1,"message":"Not at the repository root","timestamp":1653981666645,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981666645}
+{"level":1,"message":"Not at the repository root","timestamp":1653981666645,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"Not modified since","timestamp":1653981668457,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"request","timestamp":1653981668457,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981669223}
+{"level":1,"message":"Not at the repository root","timestamp":1653981669223,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981669270}
+{"level":1,"message":"Not at the repository root","timestamp":1653981669270,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"Not modified since","timestamp":1653981668457,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"request","timestamp":1653981668457,"responseTime":0,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981669223}
+{"level":1,"message":"Not at the repository root","timestamp":1653981669223,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981669270}
+{"level":1,"message":"Not at the repository root","timestamp":1653981669270,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1653981669488,"responseTime":31,"method":"PUT","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653981669504,"responseTime":31,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"Not modified since","timestamp":1653981669848,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"request","timestamp":1653981669848,"responseTime":12,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"request","timestamp":1653981669488,"responseTime":31,"method":"PUT","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653981669504,"responseTime":31,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"Not modified since","timestamp":1653981669848,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"request","timestamp":1653981669848,"responseTime":12,"method":"GET","path":"/dev/api/files/wwwroot/formato.css","statusCode":304}
+{"level":1,"message":"request","timestamp":1653981670301,"responseTime":16,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653981670301,"responseTime":16,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981672332}
+{"level":1,"message":"Not at the repository root","timestamp":1653981672332,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1653981673129,"responseTime":16,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653981673254,"responseTime":47,"method":"GET","path":"/dev/api/files/wwwroot/images/aa.jpg","statusCode":200}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981672332}
+{"level":1,"message":"Not at the repository root","timestamp":1653981672332,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1653981673129,"responseTime":16,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653981673254,"responseTime":47,"method":"GET","path":"/dev/api/files/wwwroot/images/aa.jpg","statusCode":200}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981679242}
+{"level":1,"message":"Not at the repository root","timestamp":1653981679242,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981679429}
+{"level":1,"message":"Not at the repository root","timestamp":1653981679429,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981679242}
+{"level":1,"message":"Not at the repository root","timestamp":1653981679242,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981679429}
+{"level":1,"message":"Not at the repository root","timestamp":1653981679429,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1653981683586,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653981685164,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653981688648,"responseTime":15,"method":"DELETE","path":"/dev/api/files/wwwroot/images/aa.jpg","statusCode":200}
+{"level":1,"message":"Not modified since","timestamp":1653981689304,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653981689304,"responseTime":15,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981689836}
+{"level":1,"message":"Not at the repository root","timestamp":1653981689836,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981689836}
+{"level":1,"message":"Not at the repository root","timestamp":1653981689836,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981690461}
+{"level":1,"message":"Not at the repository root","timestamp":1653981690461,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981690461}
+{"level":1,"message":"Not at the repository root","timestamp":1653981690461,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1653981710172,"responseTime":31,"method":"PUT","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653981710641,"responseTime":16,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981711391}
+{"level":1,"message":"Not at the repository root","timestamp":1653981711391,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981711422}
+{"level":1,"message":"Not at the repository root","timestamp":1653981711422,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1653981711484,"responseTime":15,"method":"PUT","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653981711953,"responseTime":31,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653981711953,"responseTime":31,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653981711953,"responseTime":31,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653981717672,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981721781}
+{"level":1,"message":"Not at the repository root","timestamp":1653981721781,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981722406}
+{"level":1,"message":"Not at the repository root","timestamp":1653981722406,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981721781}
+{"level":1,"message":"Not at the repository root","timestamp":1653981721781,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981722406}
+{"level":1,"message":"Not at the repository root","timestamp":1653981722406,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1653981741156,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653981797910,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/connect","statusCode":200}
+{"level":1,"message":"request","timestamp":1653981799004,"responseTime":16,"method":"POST","path":"/dev/api/files/wwwroot/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653981799286,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/","statusCode":200}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981800662}
+{"level":1,"message":"Not at the repository root","timestamp":1653981800662,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981801209}
+{"level":1,"message":"Not at the repository root","timestamp":1653981801209,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981800662}
+{"level":1,"message":"Not at the repository root","timestamp":1653981800662,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981801209}
+{"level":1,"message":"Not at the repository root","timestamp":1653981801209,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981809771}
+{"level":1,"message":"Not at the repository root","timestamp":1653981809771,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653981809771}
+{"level":1,"message":"Not at the repository root","timestamp":1653981809771,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1653981827167,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653981870542,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":6,"message":"Unable to contact telemetry service: Error: getaddrinfo ENOTFOUND","timestamp":1653984582914}
+{"level":5,"message":"Serving workspaces from \"C:\\home\\site\"","timestamp":1653986857280}
+{"level":5,"message":"File watcher installed on path: C:\\home\\site","timestamp":1653986857796}
+{"level":5,"message":"Found C:\\home\\site\\Diagnostics\\settings.json with contents: {\"AzureDriveEnabled\":false,\"AzureDriveTraceLevel\":\"Information\"}","timestamp":1653986857812}
+{"level":2,"message":"at    78ms\tcreateServer() - start","timestamp":1653986857921}
+{"level":2,"message":"at    78ms\ttime    47ms\tcontributionManager init()","timestamp":1653986857921}
+{"level":2,"message":"at   297ms\ttime     0ms\tcontributionManager registerExtensions()","timestamp":1653986857921}
+{"level":2,"message":"at   297ms\ttime   593ms\tconfig.configure()","timestamp":1653986857921}
+{"level":2,"message":"at   937ms\ttime    32ms\tcom.microsoft.vs.git configure()","timestamp":1653986857921}
+{"level":2,"message":"at   937ms\ttime   469ms\tcom.microsoft.vs.http configure()","timestamp":1653986857921}
+{"level":2,"message":"at   937ms\ttime   469ms\tcom.microsoft.vs.feedback configure()","timestamp":1653986857921}
+{"level":2,"message":"at   937ms\ttime   469ms\tcom.microsoft.vs.telemetryService configure()","timestamp":1653986857921}
+{"level":2,"message":"at   937ms\ttime   469ms\tcom.microsoft.vs.telemetry configure()","timestamp":1653986857921}
+{"level":2,"message":"at   937ms\ttime   469ms\tcom.microsoft.vs.ipc configure()","timestamp":1653986857921}
+{"level":2,"message":"at   937ms\ttime   469ms\tcom.microsoft.vs.tfs configure()","timestamp":1653986857921}
+{"level":2,"message":"at   937ms\ttime   469ms\tcom.microsoft.vs.process configure()","timestamp":1653986857921}
+{"level":2,"message":"at   937ms\ttime   469ms\tcom.microsoft.vs.file configure()","timestamp":1653986857921}
+{"level":2,"message":"at   937ms\ttime   469ms\tcom.microsoft.vs.search configure()","timestamp":1653986857921}
+{"level":2,"message":"at   937ms\ttime   500ms\tcom.microsoft.vs.output configure()","timestamp":1653986857921}
+{"level":2,"message":"at   937ms\ttime   500ms\tcontributionManager configure()","timestamp":1653986857921}
+{"level":2,"message":"at  1437ms\ttime    63ms\tserver.configure()","timestamp":1653986857921}
+{"level":2,"message":"at  1500ms\ttime     0ms\tmiddleware.plugin()","timestamp":1653986857921}
+{"level":2,"message":"at  1500ms\ttime    31ms\troutes.route()","timestamp":1653986857921}
+{"level":2,"message":"at  1531ms\tcreateServer() - end","timestamp":1653986857921}
+{"level":5,"message":"Monaco server running at port \\\\.\\pipe\\936ed73d-c283-44fe-a7ac-e6898cdb0fc9 from C:\\Program Files (x86)\\SiteExtensions\\Monaco\\1.0.0-20200601\\server using node v0.10.40","timestamp":1653986858280}
+{"level":5,"message":"Detected project type: HTML","timestamp":1653986858280}
+{"level":1,"message":"request","timestamp":1653986858640,"responseTime":47,"method":"GET","path":"/dev/public/e75bddac/vs/base/ui/widgets/tree/loading.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653986858655,"responseTime":47,"method":"POST","path":"/dev/api/files/wwwroot/.git/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653986858640,"responseTime":47,"method":"GET","path":"/dev/public/e75bddac/vs/base/ui/widgets/tree/loading.svg","statusCode":200}
+{"level":1,"message":"request","timestamp":1653986858655,"responseTime":47,"method":"POST","path":"/dev/api/files/wwwroot/.git/","statusCode":200}
+{"level":5,"message":"Serving workspaces from \"C:\\home\\site\"","timestamp":1653989369930}
+{"level":5,"message":"File watcher installed on path: C:\\home\\site","timestamp":1653989370446}
+{"level":5,"message":"Found C:\\home\\site\\Diagnostics\\settings.json with contents: {\"AzureDriveEnabled\":true,\"AzureDriveTraceLevel\":\"Information\"}","timestamp":1653989370461}
+{"level":2,"message":"at    31ms\tcreateServer() - start","timestamp":1653989370573}
+{"level":2,"message":"at    31ms\ttime    47ms\tcontributionManager init()","timestamp":1653989370573}
+{"level":2,"message":"at   234ms\ttime     0ms\tcontributionManager registerExtensions()","timestamp":1653989370573}
+{"level":2,"message":"at   234ms\ttime   578ms\tconfig.configure()","timestamp":1653989370573}
+{"level":2,"message":"at   844ms\ttime    31ms\tcom.microsoft.vs.git configure()","timestamp":1653989370573}
+{"level":2,"message":"at   844ms\ttime   484ms\tcom.microsoft.vs.http configure()","timestamp":1653989370573}
+{"level":2,"message":"at   844ms\ttime   484ms\tcom.microsoft.vs.feedback configure()","timestamp":1653989370573}
+{"level":2,"message":"at   844ms\ttime   484ms\tcom.microsoft.vs.tfs configure()","timestamp":1653989370573}
+{"level":2,"message":"at   844ms\ttime   484ms\tcom.microsoft.vs.ipc configure()","timestamp":1653989370573}
+{"level":2,"message":"at   844ms\ttime   484ms\tcom.microsoft.vs.telemetryService configure()","timestamp":1653989370573}
+{"level":2,"message":"at   844ms\ttime   484ms\tcom.microsoft.vs.telemetry configure()","timestamp":1653989370573}
+{"level":2,"message":"at   844ms\ttime   484ms\tcom.microsoft.vs.process configure()","timestamp":1653989370573}
+{"level":2,"message":"at   844ms\ttime   484ms\tcom.microsoft.vs.file configure()","timestamp":1653989370573}
+{"level":2,"message":"at   844ms\ttime   484ms\tcom.microsoft.vs.search configure()","timestamp":1653989370573}
+{"level":2,"message":"at   844ms\ttime   515ms\tcom.microsoft.vs.output configure()","timestamp":1653989370573}
+{"level":2,"message":"at   844ms\ttime   515ms\tcontributionManager configure()","timestamp":1653989370573}
+{"level":2,"message":"at  1359ms\ttime    47ms\tserver.configure()","timestamp":1653989370573}
+{"level":2,"message":"at  1406ms\ttime    19ms\tmiddleware.plugin()","timestamp":1653989370573}
+{"level":2,"message":"at  1425ms\ttime    30ms\troutes.route()","timestamp":1653989370573}
+{"level":2,"message":"at  1455ms\tcreateServer() - end","timestamp":1653989370573}
+{"level":5,"message":"Monaco server running at port \\\\.\\pipe\\78e50f05-0667-463c-9682-fefbc2d07c26 from C:\\Program Files (x86)\\SiteExtensions\\Monaco\\1.0.0-20200601\\server using node v0.10.40","timestamp":1653989370915}
+{"level":5,"message":"Detected project type: HTML","timestamp":1653989370915}
+{"level":5,"message":"File watcher installed on path: C:\\home\\LogFiles\\Application","timestamp":1653989370915}
+{"level":1,"message":"request","timestamp":1653989372680,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/","statusCode":200}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653989373243}
+{"level":1,"message":"Not at the repository root","timestamp":1653989373243,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1653989396149,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":6,"message":"Unable to contact telemetry service: Error: getaddrinfo ENOTFOUND","timestamp":1653989403305}
+{"level":6,"message":"Unable to contact telemetry service: Error: getaddrinfo ENOTFOUND","timestamp":1653989463327}
+{"level":1,"message":"request","timestamp":1653989527566,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/connect","statusCode":200}
+{"level":1,"message":"request","timestamp":1653989528332,"responseTime":63,"method":"POST","path":"/dev/api/events/wwwroot/","statusCode":200}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653989529410}
+{"level":1,"message":"Not at the repository root","timestamp":1653989529410,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653989529410}
+{"level":1,"message":"Not at the repository root","timestamp":1653989529410,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1653989578841,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":6,"message":"Unable to contact telemetry service: Error: getaddrinfo ENOTFOUND","timestamp":1653989583341}
+{"level":6,"message":"Unable to contact telemetry service: Error: getaddrinfo ENOTFOUND","timestamp":1653989823358}
+{"level":6,"message":"Unable to contact telemetry service: Error: getaddrinfo ENOTFOUND","timestamp":1653990303411}
+{"level":1,"message":"request","timestamp":1653991201876,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/connect","statusCode":200}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653991204376}
+{"level":1,"message":"Not at the repository root","timestamp":1653991204376,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653991204376}
+{"level":1,"message":"Not at the repository root","timestamp":1653991204376,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1653991208423,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/","statusCode":200}
+{"level":1,"message":"request","timestamp":1653991230876,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":6,"message":"Unable to contact telemetry service: Error: getaddrinfo ENOTFOUND","timestamp":1653991263509}
+{"level":1,"message":"request","timestamp":1653991270744,"responseTime":0,"method":"GET","path":"/dev/wwwroot/hostingstart.html","statusCode":200}
+{"level":1,"message":"request","timestamp":1653991271806,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/connect","statusCode":200}
+{"level":1,"message":"Missing access token.","timestamp":1653991271884,"method":"GET","path":"/dev/api/tfs/wwwroot/status","statusCode":412}
+{"level":1,"message":"Not found","timestamp":1653991271963,"method":"GET","path":"/dev/api/files/wwwroot/.settings","statusCode":404}
+{"level":1,"message":"request","timestamp":1653991271994,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/","statusCode":200}
+{"level":1,"message":"Not modified since","timestamp":1653991272119,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1653991272119,"responseTime":63,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653991272775}
+{"level":1,"message":"Not at the repository root","timestamp":1653991272775,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653991273103}
+{"level":1,"message":"Not at the repository root","timestamp":1653991273103,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1653991273103}
+{"level":1,"message":"Not at the repository root","timestamp":1653991273103,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1653991303126,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":1,"message":"request","timestamp":1653991424074,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":6,"message":"Unable to contact telemetry service: Error: getaddrinfo ENOTFOUND","timestamp":1653993183661}
+{"level":5,"message":"Serving workspaces from \"C:\\home\\site\"","timestamp":1654000771615}
+{"level":5,"message":"File watcher installed on path: C:\\home\\site","timestamp":1654000772177}
+{"level":5,"message":"Found C:\\home\\site\\Diagnostics\\settings.json with contents: {\"AzureDriveEnabled\":true,\"AzureDriveTraceLevel\":\"Information\"}","timestamp":1654000772193}
+{"level":2,"message":"at    31ms\tcreateServer() - start","timestamp":1654000772302}
+{"level":2,"message":"at    31ms\ttime    47ms\tcontributionManager init()","timestamp":1654000772302}
+{"level":2,"message":"at   265ms\ttime     0ms\tcontributionManager registerExtensions()","timestamp":1654000772302}
+{"level":2,"message":"at   265ms\ttime   579ms\tconfig.configure()","timestamp":1654000772302}
+{"level":2,"message":"at   875ms\ttime    47ms\tcom.microsoft.vs.git configure()","timestamp":1654000772302}
+{"level":2,"message":"at   875ms\ttime   516ms\tcom.microsoft.vs.http configure()","timestamp":1654000772302}
+{"level":2,"message":"at   875ms\ttime   516ms\tcom.microsoft.vs.feedback configure()","timestamp":1654000772302}
+{"level":2,"message":"at   875ms\ttime   516ms\tcom.microsoft.vs.tfs configure()","timestamp":1654000772302}
+{"level":2,"message":"at   875ms\ttime   516ms\tcom.microsoft.vs.ipc configure()","timestamp":1654000772302}
+{"level":2,"message":"at   875ms\ttime   516ms\tcom.microsoft.vs.telemetryService configure()","timestamp":1654000772302}
+{"level":2,"message":"at   875ms\ttime   516ms\tcom.microsoft.vs.telemetry configure()","timestamp":1654000772302}
+{"level":2,"message":"at   875ms\ttime   516ms\tcom.microsoft.vs.process configure()","timestamp":1654000772302}
+{"level":2,"message":"at   875ms\ttime   516ms\tcom.microsoft.vs.file configure()","timestamp":1654000772302}
+{"level":2,"message":"at   875ms\ttime   516ms\tcom.microsoft.vs.search configure()","timestamp":1654000772302}
+{"level":2,"message":"at   875ms\ttime   562ms\tcom.microsoft.vs.output configure()","timestamp":1654000772302}
+{"level":2,"message":"at   875ms\ttime   562ms\tcontributionManager configure()","timestamp":1654000772302}
+{"level":2,"message":"at  1437ms\ttime    47ms\tserver.configure()","timestamp":1654000772302}
+{"level":2,"message":"at  1484ms\ttime    16ms\tmiddleware.plugin()","timestamp":1654000772302}
+{"level":2,"message":"at  1500ms\ttime    31ms\troutes.route()","timestamp":1654000772302}
+{"level":2,"message":"at  1531ms\tcreateServer() - end","timestamp":1654000772302}
+{"level":5,"message":"Monaco server running at port \\\\.\\pipe\\e3d314e8-da69-4636-b38b-4a199618df6b from C:\\Program Files (x86)\\SiteExtensions\\Monaco\\1.0.0-20200601\\server using node v0.10.40","timestamp":1654000772662}
+{"level":5,"message":"Detected project type: HTML","timestamp":1654000772662}
+{"level":1,"message":"request","timestamp":1654000773146,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/connect","statusCode":200}
+{"level":1,"message":"request","timestamp":1654000773146,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/connect","statusCode":200}
+{"level":1,"message":"request","timestamp":1654000773771,"responseTime":0,"method":"POST","path":"/dev/api/events/wwwroot/","statusCode":200}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1654000774427}
+{"level":1,"message":"Not at the repository root","timestamp":1654000774427,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1654000798083,"responseTime":15,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":6,"message":"Unable to contact telemetry service: Error: getaddrinfo ENOTFOUND","timestamp":1654000804505}
+{"level":6,"message":"Unable to contact telemetry service: Error: getaddrinfo ENOTFOUND","timestamp":1654000864510}
+{"level":1,"message":"request","timestamp":1654000919749,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":6,"message":"Unable to contact telemetry service: Error: getaddrinfo ENOTFOUND","timestamp":1654000984518}
+{"level":6,"message":"Unable to contact telemetry service: Error: getaddrinfo ENOTFOUND","timestamp":1654001224538}
+{"level":6,"message":"Unable to contact telemetry service: Error: getaddrinfo ENOTFOUND","timestamp":1654001704576}
+{"level":6,"message":"Unable to contact telemetry service: Error: getaddrinfo ENOTFOUND","timestamp":1654002664682}
+{"level":5,"message":"Serving workspaces from \"C:\\home\\site\"","timestamp":1654064782944}
+{"level":5,"message":"File watcher installed on path: C:\\home\\site","timestamp":1654064783537}
+{"level":5,"message":"Found C:\\home\\site\\Diagnostics\\settings.json with contents: {\"AzureDriveEnabled\":true,\"AzureDriveTraceLevel\":\"Information\"}","timestamp":1654064783557}
+{"level":2,"message":"at    62ms\tcreateServer() - start","timestamp":1654064783662}
+{"level":2,"message":"at    62ms\ttime    47ms\tcontributionManager init()","timestamp":1654064783662}
+{"level":2,"message":"at   296ms\ttime     0ms\tcontributionManager registerExtensions()","timestamp":1654064783662}
+{"level":2,"message":"at   315ms\ttime   763ms\tconfig.configure()","timestamp":1654064783662}
+{"level":2,"message":"at  1128ms\ttime    43ms\tcom.microsoft.vs.git configure()","timestamp":1654064783662}
+{"level":2,"message":"at  1128ms\ttime   528ms\tcom.microsoft.vs.http configure()","timestamp":1654064783662}
+{"level":2,"message":"at  1128ms\ttime   528ms\tcom.microsoft.vs.feedback configure()","timestamp":1654064783662}
+{"level":2,"message":"at  1128ms\ttime   528ms\tcom.microsoft.vs.ipc configure()","timestamp":1654064783662}
+{"level":2,"message":"at  1128ms\ttime   528ms\tcom.microsoft.vs.telemetryService configure()","timestamp":1654064783662}
+{"level":2,"message":"at  1128ms\ttime   528ms\tcom.microsoft.vs.telemetry configure()","timestamp":1654064783662}
+{"level":2,"message":"at  1128ms\ttime   528ms\tcom.microsoft.vs.tfs configure()","timestamp":1654064783662}
+{"level":2,"message":"at  1128ms\ttime   528ms\tcom.microsoft.vs.process configure()","timestamp":1654064783662}
+{"level":2,"message":"at  1128ms\ttime   528ms\tcom.microsoft.vs.file configure()","timestamp":1654064783662}
+{"level":2,"message":"at  1128ms\ttime   528ms\tcom.microsoft.vs.search configure()","timestamp":1654064783662}
+{"level":2,"message":"at  1128ms\ttime   575ms\tcom.microsoft.vs.output configure()","timestamp":1654064783662}
+{"level":2,"message":"at  1128ms\ttime   575ms\tcontributionManager configure()","timestamp":1654064783662}
+{"level":2,"message":"at  1703ms\ttime    62ms\tserver.configure()","timestamp":1654064783662}
+{"level":2,"message":"at  1765ms\ttime     0ms\tmiddleware.plugin()","timestamp":1654064783662}
+{"level":2,"message":"at  1765ms\ttime    31ms\troutes.route()","timestamp":1654064783662}
+{"level":2,"message":"at  1796ms\tcreateServer() - end","timestamp":1654064783662}
+{"level":5,"message":"Monaco server running at port \\\\.\\pipe\\2789966e-6545-49ec-b7d7-57a4096e77a7 from C:\\Program Files (x86)\\SiteExtensions\\Monaco\\1.0.0-20200601\\server using node v0.10.40","timestamp":1654064784037}
+{"level":5,"message":"Detected project type: HTML","timestamp":1654064784037}
+{"level":1,"message":"request","timestamp":1654064784163,"responseTime":32,"method":"GET","path":"/dev/wwwroot/","statusCode":200}
+{"level":1,"message":"request","timestamp":1654064784163,"responseTime":32,"method":"GET","path":"/dev/wwwroot/","statusCode":200}
+{"level":1,"message":"Missing access token.","timestamp":1654064785787,"method":"GET","path":"/dev/api/tfs/wwwroot/status","statusCode":412}
+{"level":1,"message":"Not modified since","timestamp":1654064786054,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":1,"message":"request","timestamp":1654064786054,"responseTime":48,"method":"GET","path":"/dev/api/files/wwwroot/hostingstart.html","statusCode":304}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1654064786834}
+{"level":1,"message":"Not at the repository root","timestamp":1654064786834,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1654064786912,"responseTime":421,"method":"GET","path":"/dev/api/files/wwwroot/","statusCode":200}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1654064786834}
+{"level":1,"message":"Not at the repository root","timestamp":1654064786834,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1654064786912,"responseTime":421,"method":"GET","path":"/dev/api/files/wwwroot/","statusCode":200}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1654064787194}
+{"level":1,"message":"Not at the repository root","timestamp":1654064787194,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":6,"message":"Error: Not at the repository root","timestamp":1654064787194}
+{"level":1,"message":"Not at the repository root","timestamp":1654064787194,"method":"GET","path":"/dev/api/git/wwwroot/status","statusCode":400}
+{"level":1,"message":"request","timestamp":1654064816272,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":6,"message":"Unable to contact telemetry service: Error: getaddrinfo ENOTFOUND","timestamp":1654064816881}
+{"level":6,"message":"Unable to contact telemetry service: Error: getaddrinfo ENOTFOUND","timestamp":1654064876886}
+{"level":1,"message":"request","timestamp":1654064961990,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":6,"message":"Unable to contact telemetry service: Error: getaddrinfo ENOTFOUND","timestamp":1654064996912}
+{"level":1,"message":"request","timestamp":1654065187271,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":6,"message":"Unable to contact telemetry service: Error: getaddrinfo ENOTFOUND","timestamp":1654065236934}
+{"level":1,"message":"request","timestamp":1654065309564,"responseTime":0,"method":"POST","path":"/dev/api/telemetry/wwwroot/","statusCode":201}
+{"level":6,"message":"Unable to contact telemetry service: Error: getaddrinfo ENOTFOUND","timestamp":1654065716957}
