@@ -1,0 +1,9 @@
+.terraform 
+terraform.tfstate* 
+.env 
+.vscode 
+.DS_Store 
+.history/ 
+.idea 
+.session.token 
+plan.txt 
